@@ -1,0 +1,19 @@
+Source: php7.0-blitz
+Section: php
+Priority: optional
+Maintainer: Andrey Chernomyrdin <chernomyrdin@zakazaka.ru>
+Uploaders: Andrey Chernomyrdin <chernomyrdin@zakazaka.ru>
+Build-Depends: debhelper (>= 9), php7.0-dev, dh-php (>= 0.7~)
+Standards-Version: 3.9.6
+Vcs-Git: https://github.com/alexeyrybak/blitz.git
+Homepage: http://alexeyrybak.com/blitz/blitz_en.html
+
+Package: php7.0-blitz
+Architecture: any
+Depends: ${shlibs:Depends}, ${php:Depends}, ${misc:Depends},
+Description: Blitz module for PHP 5.6
+ This package provides a module for Blitz template engine in PHP scripts.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.

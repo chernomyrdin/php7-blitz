@@ -1,0 +1,20 @@
+This package was debianized by Andrey Chernomyrdin <chernomyrdin@zakazaka.ru> using dh-make-pecl
+on Wed, 28 Nov 2012 11:43:36 +0400.
+
+It was downloaded from http://alexeyrybak.com/blitz/all-releases/
+
+Upstream Author(s):
+
+   Alexey A. Rybak 
+
+Copyright:
+
+    Copyright (C) 2005 - 2012 Alexey A. Rybak
+
+License:
+
+    PHP
+
+The Debian packaging is copyright 2009, Andrey Chernomyrdin <chernomyrdin@zakazaka.ru> and
+is licensed under the GPL, see `/usr/share/common-licenses/GPL'.
+

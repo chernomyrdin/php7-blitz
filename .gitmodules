@@ -1,0 +1,4 @@
+[submodule "blitz"]
+	path = blitz
+	url = https://github.com/alexeyrybak/blitz.git
+	branch = php7
